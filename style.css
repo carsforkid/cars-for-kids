@@ -86,7 +86,7 @@ body {
 
 .hero {
     height: 100vh;
-    background: url('../images/hero.jpg') center/cover no-repeat;
+    background: url('images/hero.jpg') center/cover no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -326,3 +326,4 @@ footer {
         padding: 70px 0;
     }
 }
+
